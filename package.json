@@ -1,5 +1,5 @@
 {
-  "name": "@gigwalk/karma-webpack",
+  "name": "karma-webpack",
   "version": "1.8.0",
   "author": "Tobias Koppers @sokra",
   "description": "Use webpack with karma",
